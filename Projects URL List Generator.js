@@ -30,3 +30,4 @@ for (let i = 0; i < projectsTotal; i++) {
 	resultWindow.document.write('<a href='+projectsURL+' target="_blank">'+projectsURL+'</a><br>');
 }
 resultWindow.document.write('<b>Total de Projetos: </b>'+projectsTotal+'<br>');
+//[EoF]
