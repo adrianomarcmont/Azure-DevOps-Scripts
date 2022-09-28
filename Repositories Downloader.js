@@ -48,7 +48,7 @@ for (let i = 0; i < projectsTotal; i++) {
 	if (this.readyState == 4 && this.status == 200) {
 			var repositories = JSON.parse(this.responseText);
 			var repositoriesTotal = repositories.count;
-			console.log("Total Projetos",projectsTotal);
+			console.log("Total de Projetos",projectsTotal);
 			console.log("Total de Repositorios",repositoriesTotal);			
 			for (let j = 0; j < repositoriesTotal; j++) {
 				repositorieId = repositories.value[j].id;
