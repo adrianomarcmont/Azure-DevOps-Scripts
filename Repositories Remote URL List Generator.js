@@ -53,5 +53,4 @@ for (let i = 0; i < projectsTotal; i++) {
 	xhttp.open("GET", repositoriesURL);
 	xhttp.send();
 }
-
-
+//[EoF]
