@@ -17,8 +17,6 @@
 // Pressione Enter.
 // Aguarde a finalização do script.
 
-
-
 var hostName = document.location.host;
 var proto = document.location.protocol;
 var orgName = document.location.href.split("/",document.location.href.length)[3];
