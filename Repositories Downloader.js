@@ -20,7 +20,6 @@
 // Descompactar todos os arquivos cada um em sua pasta:
 // "C:\Program Files\WinRAR\WinRAR.exe" x -ad -cfg- -ibck *.zip
 
-
 //*********************
 // ***** To Do's: *****
 //*********************
