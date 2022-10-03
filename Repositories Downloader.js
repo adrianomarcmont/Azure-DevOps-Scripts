@@ -10,7 +10,7 @@
 // ***** Modo de usar: *****
 // *************************
 // Usando o Google Chrome.
-// Acesse a página: https://YOUR_AZURE_DEVOPS/DefaultCollection/_apis/projects?api-version=5.0
+// Acesse a página: https://YOUR_AZURE_DEVOPS/ORG_NAME/_apis/projects?api-version=5.0
 // Pressione F12.
 // Clique na aba console.
 // Cole o codigo abaixo.
